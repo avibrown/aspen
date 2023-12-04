@@ -1,7 +1,6 @@
 ## Azrieli Final Project Source Material
 
----
-
+### Guide:
 - The `aspen` directory contains all source files for the SLAM rover used as this project's test platform. 
 - The `micro-ROS_tinyML` directory contains source files for the keyword spotting prototype based on the Arduino Portenta H7.
 - The `onnx` directory contains model weights in `.h5` and `.onnx` formats.
