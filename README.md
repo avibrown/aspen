@@ -14,3 +14,7 @@
 ---
 
 [Project writeup](https://docs.google.com/document/d/18fcC0F6s9dK_Nw3wXSUpunC9aEudNSBHCnLDHP9-yec/edit?usp=sharing) 
+
+---
+
+![image](https://github.com/avibrown/aspen/assets/63222803/629cc0bf-1a69-4ace-ba0b-094ed74fe265)
