@@ -17,4 +17,5 @@
 
 ---
 
-![image](https://github.com/avibrown/aspen/assets/63222803/629cc0bf-1a69-4ace-ba0b-094ed74fe265)
+![download](https://github.com/avibrown/aspen/assets/63222803/cf0cdcb8-db01-4035-bba4-f17c462bd191)
+
